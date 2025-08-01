@@ -1,5 +1,5 @@
-# 🌸 About Me:
-Hi, I’m Sara — a dependable and detail-oriented remote professional with hands-on experience in data labeling, content evaluation, and digital task work for AI/ML projects. I'm actively seeking new remote opportunities where I can grow into a long-term role, ideally in IT, data services, or a tech-driven support position.
+# 🌸 Hi, I’m Sara!
+I am a dependable and detail-oriented remote professional with hands-on experience in data labeling, content evaluation, and digital task work for AI/ML projects. I'm actively seeking new remote opportunities where I can grow into a long-term role, ideally in IT, data services, or a tech-driven support position.
 
 I'm committed, self-motivated, and always learning new skills to stay sharp and adaptable. I thrive in independent work environments, take pride in delivering high-quality results, and enjoy solving problems behind the scenes. Whether it’s improving AI systems, supporting data workflows, or learning a new platform from scratch, I’m ready to jump in and contribute.
 
