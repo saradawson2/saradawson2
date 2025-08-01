@@ -1,6 +1,9 @@
 # 🌸 About Me:
-Hi, I’m Sara — a dependable and detail-oriented remote professional with hands-on experience in data labeling, content evaluation, and digital task work for AI/ML projects. I'm actively seeking new remote opportunities where I can grow into a long-term role, ideally in IT, data services, or a tech-driven support position.<br><br>I'm committed, self-motivated, and always learning new skills to stay sharp and adaptable. I thrive in independent work environments, take pride in delivering high-quality results, and enjoy solving problems behind the scenes. Whether it’s improving AI systems, supporting data workflows, or learning a new platform from scratch, I’m ready to jump in and contribute.urrently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi, I’m Sara — a dependable and detail-oriented remote professional with hands-on experience in data labeling, content evaluation, and digital task work for AI/ML projects. I'm actively seeking new remote opportunities where I can grow into a long-term role, ideally in IT, data services, or a tech-driven support position.
 
+I'm committed, self-motivated, and always learning new skills to stay sharp and adaptable. I thrive in independent work environments, take pride in delivering high-quality results, and enjoy solving problems behind the scenes. Whether it’s improving AI systems, supporting data workflows, or learning a new platform from scratch, I’m ready to jump in and contribute.
+
+Always learning – currently exploring Python and the basics of IT/data systems to transition into a long-term remote tech career.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-dawson2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saradawsona@gmail.com) 
