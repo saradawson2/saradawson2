@@ -3,13 +3,16 @@ Hi, I’m Sara — a dependable and detail-oriented remote professional with han
 
 I'm committed, self-motivated, and always learning new skills to stay sharp and adaptable. I thrive in independent work environments, take pride in delivering high-quality results, and enjoy solving problems behind the scenes. Whether it’s improving AI systems, supporting data workflows, or learning a new platform from scratch, I’m ready to jump in and contribute.
 
-Always learning – currently exploring Python and the basics of IT/data systems to transition into a long-term remote tech career.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-dawson2) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saradawsona@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+Always learning – currently exploring Python and the basics of IT/data systems to transition into a long-term remote tech career.
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saradawson2&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saradawson2&theme=neon&hide_border=false)<br/>
